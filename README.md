@@ -7,10 +7,10 @@
 
 ## 문서 안내
 
-- `doc/api_guide.md` : 전체 API 개요 및 사용 흐름
-- `doc/openai_guide.md` : OpenAI API 사용 가이드 및 예제
-- `doc/gemini_guide.md` : Google Gemini API 사용 가이드 및 예제
-- `doc/google_oauth_guide.md` : Google OAuth 설정 가이드
+- [`doc/api_guide.md`](doc/api_guide.md) : 전체 API 개요 및 사용 흐름
+- [`doc/openai_guide.md`](doc/openai_guide.md) : OpenAI API 사용 가이드 및 예제
+- [`doc/gemini_guide.md`](doc/gemini_guide.md) : Google Gemini API 사용 가이드 및 예제
+- [`doc/google_oauth_guide.md`](doc/google_oauth_guide.md) : Google OAuth 설정 가이드
 
 ## 프로젝트 설정 가이드
 
